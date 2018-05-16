@@ -7,7 +7,7 @@ HOW TO USE:
 - Type shell commands
 - Current available operators are:
 	- < redirect input
-	- > redirect output
+	- \> redirect output
 	- | pipe
 	- & background
 	- && and
