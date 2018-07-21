@@ -1,7 +1,7 @@
 # Unix_Shell
 Unix shell recreation based off a school project
 
-HOW TO USE:
+# How to use:
 - First, run command 'make' to create executable
 - nush$ will launch
 - Type shell commands
